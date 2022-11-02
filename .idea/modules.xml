@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring_Demo05.iml" filepath="$PROJECT_DIR$/.idea/Spring_Demo05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ioc_test01/spring_ioc_test01.iml" filepath="$PROJECT_DIR$/spring_ioc_test01/spring_ioc_test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ioc_test02/spring_ioc_test02.iml" filepath="$PROJECT_DIR$/spring_ioc_test02/spring_ioc_test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工具代码/spring_ioc_xml.iml" filepath="$PROJECT_DIR$/工具代码/spring_ioc_xml.iml" />
+    </modules>
+  </component>
+</project>
